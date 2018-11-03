@@ -19,6 +19,8 @@ To run the game, simply hit the `Play` button.
 There main navigation manueuvers are : Move, Orbit and Zoom( Translate, Rotate and Scale)
 * ![navigation](images/main_maneuver.png)
 Besides the buttons in the toolbars to do these manueuvers, you can press W, E, R.
+https://docs.unity3d.com/Manual/SceneViewNavigation.html
+https://docs.unity3d.com/Manual/UnityHotkeys.html
 When you active a transform, you’ll notice a set of color-coded arrows or circle appears over the object in the scene; this is the Transform gizmo, you can click-drag this gizmo to apply the transfornation
 
 The last button of toolbars is Rect tool. It is designed for use with 2D graphics. It combines movement, rotation and scaling. 
