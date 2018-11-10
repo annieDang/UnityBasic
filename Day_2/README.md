@@ -6,11 +6,11 @@
     * To import asset
         * Right click at asset panel -> import package -> custom package (WM2000 asset pack v.1)
     * Create a scene and drag asset to the created scene
-![editor](images/editor.png){style="display: block; margin: 0 auto" }
+![editor](images/editor.png)
 ## 1. Game design
-![design](images/design.png){style="display: block; margin: 0 auto" }
+![design](images/design.png)
 ## 2. How does it look
-![look](images/look.png){style="display: block; margin: 0 auto" }
+![look](images/look.png)
 It is basically an anagram guessing game. 
 Words samples:
 *  Easy (library) : Books, aisle, shelf, password, front, borrow
@@ -28,7 +28,7 @@ Words samples:
 ```
 ## 4. Organising in Unity C#
 
-![unityC](images/unityC.png){style="display: block; margin: 0 auto" }
+![unityC](images/unityC.png)
 
 * Variable 
 https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/wew5ytx4(v=vs.90)
